@@ -1,4 +1,4 @@
-# [Codecov][1] CI CMake g++ cpp11 lcov Example
+# Codecov CI CMake g++ cpp11 lcov Example
 
 [![CMake](https://github.com/samcunliffe/example-cpp11-cmake/actions/workflows/cmake.yml/badge.svg)](https://github.com/samcunliffe/example-cpp11-cmake/actions/workflows/cmake.yml)
 [![codecov](https://codecov.io/gh/samcunliffe/example-cpp11-cmake/branch/master/graph/badge.svg?token=3Q6BQ03BLP)](https://codecov.io/gh/samcunliffe/example-cpp11-cmake)
